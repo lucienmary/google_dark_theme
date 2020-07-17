@@ -1,4 +1,4 @@
 # google_dark_theme
 Google dark theme(result pages). CSS for Stylebot.
 
-For use this theme: -Import into Stylebot for google.com/search
+To use this theme: -Import into Stylebot for google.com/search
